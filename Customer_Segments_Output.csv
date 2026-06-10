@@ -1,0 +1,101 @@
+CustomerID,Age,Annual_Income_k,Spending_Score,Customer_Segment
+1001,56,87,86,High-Value VIP
+1002,46,86,11,Low-Value / At-Risk
+1003,32,26,16,Low-Value / At-Risk
+1004,25,48,97,Average / Potential
+1005,38,47,73,Average / Potential
+1006,56,62,59,Average / Potential
+1007,36,37,70,Average / Potential
+1008,40,76,80,High-Value VIP
+1009,28,51,93,High-Value VIP
+1010,28,58,3,Low-Value / At-Risk
+1011,41,49,20,Low-Value / At-Risk
+1012,53,79,59,Average / Potential
+1013,57,61,36,Low-Value / At-Risk
+1014,41,92,19,Low-Value / At-Risk
+1015,20,17,90,Average / Potential
+1016,39,15,67,Average / Potential
+1017,19,19,19,Low-Value / At-Risk
+1018,41,28,20,Low-Value / At-Risk
+1019,47,41,96,Average / Potential
+1020,55,23,71,Average / Potential
+1021,19,93,52,Average / Potential
+1022,38,29,33,Low-Value / At-Risk
+1023,50,56,40,Average / Potential
+1024,29,91,39,Low-Value / At-Risk
+1025,39,65,82,High-Value VIP
+1026,42,77,1,Low-Value / At-Risk
+1027,44,66,11,Low-Value / At-Risk
+1028,59,18,92,Average / Potential
+1029,45,37,57,Average / Potential
+1030,33,29,89,Average / Potential
+1031,32,57,50,Average / Potential
+1032,20,43,23,Low-Value / At-Risk
+1033,54,50,31,Low-Value / At-Risk
+1034,24,27,94,Average / Potential
+1035,38,46,42,Average / Potential
+1036,26,85,99,High-Value VIP
+1037,56,73,7,Low-Value / At-Risk
+1038,35,42,16,Low-Value / At-Risk
+1039,21,80,90,High-Value VIP
+1040,42,56,60,Average / Potential
+1041,31,59,2,Low-Value / At-Risk
+1042,26,76,1,Low-Value / At-Risk
+1043,43,71,48,Average / Potential
+1044,19,20,12,Low-Value / At-Risk
+1045,37,42,69,Average / Potential
+1046,45,42,37,Low-Value / At-Risk
+1047,24,58,32,Low-Value / At-Risk
+1048,25,98,9,Low-Value / At-Risk
+1049,52,44,99,Average / Potential
+1050,31,76,19,Low-Value / At-Risk
+1051,34,89,48,Average / Potential
+1052,53,76,80,High-Value VIP
+1053,57,15,3,Low-Value / At-Risk
+1054,21,41,20,Low-Value / At-Risk
+1055,19,76,24,Low-Value / At-Risk
+1056,23,91,54,Average / Potential
+1057,59,17,33,Low-Value / At-Risk
+1058,21,84,24,Low-Value / At-Risk
+1059,46,86,75,High-Value VIP
+1060,35,41,72,Average / Potential
+1061,43,23,36,Low-Value / At-Risk
+1062,51,76,38,Low-Value / At-Risk
+1063,27,51,84,High-Value VIP
+1064,53,65,99,High-Value VIP
+1065,31,58,89,High-Value VIP
+1066,48,38,99,Average / Potential
+1067,32,93,25,Low-Value / At-Risk
+1068,25,73,93,High-Value VIP
+1069,31,46,18,Low-Value / At-Risk
+1070,40,66,82,High-Value VIP
+1071,57,76,66,Average / Potential
+1072,38,72,54,Average / Potential
+1073,33,66,35,Low-Value / At-Risk
+1074,35,26,80,Average / Potential
+1075,41,53,61,Average / Potential
+1076,43,16,41,Average / Potential
+1077,42,17,33,Low-Value / At-Risk
+1078,58,70,68,Average / Potential
+1079,46,95,33,Low-Value / At-Risk
+1080,32,73,14,Low-Value / At-Risk
+1081,18,16,21,Low-Value / At-Risk
+1082,42,16,48,Average / Potential
+1083,24,68,20,Low-Value / At-Risk
+1084,26,15,8,Low-Value / At-Risk
+1085,41,33,7,Low-Value / At-Risk
+1086,18,16,67,Average / Potential
+1087,25,67,17,Low-Value / At-Risk
+1088,41,58,33,Low-Value / At-Risk
+1089,28,46,48,Average / Potential
+1090,34,84,76,High-Value VIP
+1091,25,46,59,Average / Potential
+1092,52,82,86,High-Value VIP
+1093,52,69,22,Low-Value / At-Risk
+1094,50,89,30,Low-Value / At-Risk
+1095,22,70,38,Low-Value / At-Risk
+1096,59,31,51,Average / Potential
+1097,56,52,54,Average / Potential
+1098,58,38,8,Low-Value / At-Risk
+1099,45,83,27,Low-Value / At-Risk
+1100,24,84,27,Low-Value / At-Risk
