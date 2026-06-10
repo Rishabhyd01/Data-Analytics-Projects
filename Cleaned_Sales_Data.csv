@@ -1,0 +1,101 @@
+OrderID,Product_Segment,Sales,Profit,Region,Order_Date
+1,Home Appliances,2059.0,443,North,2026-01-01
+2,Home Appliances,4443.0,1407,North,2026-01-02
+3,Electronics,3193.0,579,North,2026-01-03
+4,Electronics,220.0,1467,North,2026-01-04
+5,Clothing,2324.0,-99,North,2026-01-05
+6,Home Appliances,1951.0,284,North,2026-01-06
+7,Electronics,2858.0,618,South,2026-01-07
+8,Home Appliances,4061.0,259,South,2026-01-08
+9,Clothing,1996.0,611,East,2026-01-09
+10,Clothing,3061.0,753,South,2026-01-10
+11,Clothing,179.0,1403,North,2026-01-11
+12,Home Appliances,891.0,-348,West,2026-01-12
+13,Electronics,3387.0,417,North,2026-01-13
+14,Clothing,3588.0,-65,South,2026-01-14
+15,Home Appliances,1671.0,19,East,2026-01-15
+16,Home Appliances,2876.0,1150,East,2026-01-16
+17,Clothing,3351.0,-85,East,2026-01-17
+18,Home Appliances,171.0,-209,West,2026-01-18
+19,Electronics,1072.0,-158,West,2026-01-19
+20,Clothing,1559.0,-242,North,2026-01-20
+21,Home Appliances,3819.0,1044,North,2026-01-21
+22,Electronics,3856.0,-144,East,2026-01-22
+23,Clothing,2884.0,345,South,2026-01-23
+24,Electronics,377.0,-222,East,2026-01-24
+25,Home Appliances,593.0,1438,East,2026-01-25
+26,Home Appliances,3708.0,103,South,2026-01-26
+27,Electronics,4489.0,1432,West,2026-01-27
+28,Clothing,2871.0,1016,East,2026-01-28
+29,Home Appliances,4426.0,1453,South,2026-01-29
+30,Electronics,2324.0,1289,East,2026-01-30
+31,Electronics,2840.0,759,East,2026-01-31
+32,Home Appliances,3870.0,1199,North,2026-02-01
+33,Electronics,3869.0,1223,West,2026-02-02
+34,Clothing,302.0,711,North,2026-02-03
+35,Electronics,544.0,-55,West,2026-02-04
+36,Clothing,212.0,88,East,2026-02-05
+37,Home Appliances,2324.0,1120,East,2026-02-06
+38,Clothing,3446.0,657,North,2026-02-07
+39,Home Appliances,3532.0,1045,West,2026-02-08
+40,Electronics,1815.0,-87,South,2026-02-09
+41,Clothing,713.0,1085,North,2026-02-10
+42,Clothing,3625.0,571,North,2026-02-11
+43,Clothing,1034.0,689,West,2026-02-12
+44,Clothing,2324.0,1243,North,2026-02-13
+45,Electronics,1425.0,-69,West,2026-02-14
+46,Clothing,2554.0,915,West,2026-02-15
+47,Clothing,4030.0,457,West,2026-02-16
+48,Home Appliances,679.0,333,North,2026-02-17
+49,Clothing,252.0,1094,North,2026-02-18
+50,Home Appliances,1320.0,1445,North,2026-02-19
+51,Home Appliances,3565.0,65,North,2026-02-20
+52,Home Appliances,2590.0,1386,West,2026-02-21
+53,Electronics,1166.0,157,South,2026-02-22
+54,Home Appliances,3256.0,1388,North,2026-02-23
+55,Home Appliances,3742.0,-234,South,2026-02-24
+56,Clothing,2442.0,117,North,2026-02-25
+57,Clothing,455.0,-93,North,2026-02-26
+58,Electronics,2052.0,1051,East,2026-02-27
+59,Electronics,748.0,-367,North,2026-02-28
+60,Home Appliances,779.0,101,South,2026-03-01
+61,Electronics,2236.0,-75,East,2026-03-02
+62,Electronics,2166.0,-444,East,2026-03-03
+63,Electronics,2854.0,402,West,2026-03-04
+64,Electronics,2449.0,769,North,2026-03-05
+65,Home Appliances,773.0,-376,North,2026-03-06
+66,Home Appliances,3237.0,-183,North,2026-03-07
+67,Home Appliances,2245.0,661,West,2026-03-08
+68,Home Appliances,200.0,190,North,2026-03-09
+69,Home Appliances,123.0,1297,North,2026-03-10
+70,Home Appliances,1487.0,97,South,2026-03-11
+71,Home Appliances,3631.0,775,North,2026-03-12
+72,Clothing,674.0,1490,West,2026-03-13
+73,Electronics,836.0,259,West,2026-03-14
+74,Home Appliances,3967.0,1297,East,2026-03-15
+75,Electronics,1108.0,294,West,2026-03-16
+76,Home Appliances,3579.0,505,North,2026-03-17
+77,Electronics,2324.0,962,South,2026-03-18
+78,Electronics,4124.0,-216,South,2026-03-19
+79,Home Appliances,3066.0,324,South,2026-03-20
+80,Home Appliances,2324.0,914,East,2026-03-21
+81,Clothing,2346.0,-197,West,2026-03-22
+82,Electronics,2577.0,857,East,2026-03-23
+83,Electronics,1387.0,251,West,2026-03-24
+84,Clothing,2592.0,995,South,2026-03-25
+85,Electronics,2151.0,1195,South,2026-03-26
+86,Home Appliances,3606.0,121,South,2026-03-27
+87,Home Appliances,4181.0,22,South,2026-03-28
+88,Home Appliances,542.0,336,South,2026-03-29
+89,Electronics,2363.0,461,West,2026-03-30
+90,Electronics,1502.0,699,East,2026-03-31
+91,Clothing,2618.0,1417,South,2026-04-01
+92,Home Appliances,2324.0,26,East,2026-04-02
+93,Electronics,2324.0,580,South,2026-04-03
+94,Electronics,2676.0,-267,North,2026-04-04
+95,Electronics,903.0,362,East,2026-04-05
+96,Clothing,707.0,652,North,2026-04-06
+97,Home Appliances,734.0,659,North,2026-04-07
+98,Home Appliances,352.0,970,South,2026-04-08
+99,Clothing,303.0,-65,West,2026-04-09
+100,Clothing,3027.0,971,West,2026-04-10
